@@ -24,7 +24,7 @@ This Power BI dashboard helps visualize and analyze employee attrition trends in
 ---
 
 ## 📸 Sample Dashboard View
-![Dashboard](dashboard.png)
+
 
 ---
 
