@@ -16,7 +16,18 @@ This Power BI dashboard helps visualize and analyze employee attrition trends in
 - Impact of Job Satisfaction, Education, Environment, etc.
 
 ---
+## 📷 Screenshots
 
+### 🖼️ Page 1
+![Page 1](page1.png)
+
+### 🖼️ Page 2
+![Page 2](page2.png)
+
+### 🖼️ Page 3
+![Page 3](page3.png)
+
+---
 ## 🛠️ Tools Used
 - **Power BI**: For data modeling, visualization, and storytelling
 - **HR Dataset**: Based on employee demographics and attrition info
